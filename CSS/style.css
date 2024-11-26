@@ -1,0 +1,55 @@
+
+nav.topo {
+    display: flex;
+    justify-content: space-between;
+    padding: 1vw 3vw 1vw 3vw;
+}
+nav.topo span {
+    color: #1090CB;
+    justify-content: left;
+    margin: 0 2vw 0 2vw;
+    font-size: x-large;
+}
+nav.topo ul{
+    display: flex;
+}
+nav.topo ul li a {
+    margin: 0 3vw 0 3vw;
+}
+nav.topo ul li a {
+    text-decoration: none;
+    color: black;
+}
+nav.topo ul li a.home {
+    color: #1090CB;
+}
+nav.topo ul li button {
+    background-color: #1090CB;
+}
+section.experienced {
+    background-color: #d5e7f0;
+}
+.experienced {
+    display: flex;
+}
+.experienced div.text {
+    margin: 15vw 5vw 0 10vw;
+}
+.experienced h1 {
+    font-size: xxx-large;
+    font-weight: bold;
+}
+.experienced div.text h1 {
+    margin: 0 0 2vw 0;
+}
+.experienced div.text h1 span {
+    color: #1090CB;
+}
+.experienced div.text p {
+    color: #5C5C5C;
+    margin: 0 0 2vw 0;
+}
+.experienced div.text button.contact{
+    background-color: #1090CB;
+}
+
